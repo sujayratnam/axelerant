@@ -1,0 +1,6 @@
+name =  Page JSON output
+description = Provide the node details as output in a JSON object.
+
+package = Custom
+version = "7.x-1.0"
+core = "7.x"
